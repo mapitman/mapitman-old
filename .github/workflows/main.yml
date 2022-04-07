@@ -15,7 +15,7 @@ jobs:
       - uses: mapitman/metrics@latest
         with:
           filename: achievements.svg
-          token: ${{ secrets.METRICS_SECRET }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: mapitman
           base: achievements
           plugin_achievements: yes
@@ -31,7 +31,7 @@ jobs:
         with:
           filename: header.svg
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_SECRET }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: mapitman
@@ -44,7 +44,7 @@ jobs:
       - uses: mapitman/metrics@latest
         with:
           filename: lines-of-code.svg
-          token: ${{ secrets.METRICS_SECRET }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: "repositories"
           plugin_lines: yes
 
@@ -55,7 +55,7 @@ jobs:
         with:
           filename: acti_comm.svg
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_SECRET }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: mapitman
@@ -70,7 +70,7 @@ jobs:
         with:
           filename: iso_calender.svg
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_SECRET }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: mapitman
@@ -86,7 +86,7 @@ jobs:
       - uses: mapitman/metrics@latest
         with:
           filename: github-habits.svg
-          token: ${{ secrets.METRICS_SECRET }}
+          token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Los_Angeles # Set timezone
           user: mapitman
           base: ""
@@ -104,7 +104,7 @@ jobs:
         with:
           filename: issue_pr_lang.svg
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_SECRET }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: mapitman
@@ -122,7 +122,7 @@ jobs:
         with:
           filename: repositories.svg
           # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_SECRET }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: mapitman
