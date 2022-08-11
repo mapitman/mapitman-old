@@ -5,7 +5,7 @@ on:
   # schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-  push: {branches: ["main"]}
+  # push: {branches: ["main"]}
 
 jobs:
 
