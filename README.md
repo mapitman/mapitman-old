@@ -2,22 +2,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mapitman-old](https://github.com/mapitman/mapitman-old) -  (today)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (today)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (5 days ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (5 days ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (1 month ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 months ago)
 - [gettyimages/gettyimages-api_java](https://github.com/gettyimages/gettyimages-api_java) - Getty Images API SDK for Java (3 months ago)
 - [gettyimages/gettyimages-api_ruby](https://github.com/gettyimages/gettyimages-api_ruby) - Getty Images API SDK for Ruby (4 months ago)
 - [gettyimages/gettyimages-api](https://github.com/gettyimages/gettyimages-api) - Getty Images API - code samples, help, etc. (5 months ago)
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙 (6 months ago)
+- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (6 months ago)
 
 #### 🌱 My latest projects
 
 - [mapitman/zoom-detector](https://github.com/mapitman/zoom-detector) - Detects Zoom meeting start and stop and sends messages to an MQTT broker.
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment
-- [mapitman/mapitman-old](https://github.com/mapitman/mapitman-old) - 
 - [mapitman/netcore-builder](https://github.com/mapitman/netcore-builder) - Docker image for building netcore applications
 - [mapitman/dockerfiles](https://github.com/mapitman/dockerfiles) - A collection of my Dockerfiles
 - [mapitman/pi-ticker](https://github.com/mapitman/pi-ticker) - Display messages on a Raspberry Pi with a Unicorn HAT HD LED matrix.
@@ -25,6 +24,7 @@
 - [mapitman/generate-oom](https://github.com/mapitman/generate-oom) - Generate an Out Of Memory condition for practicing crash dump debugging.
 - [mapitman/pitempd](https://github.com/mapitman/pitempd) - Temperature daemon using the DHT22 sensor
 - [mapitman/pidashboard](https://github.com/mapitman/pidashboard) - Displays temp/humidty from a DHT22
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io
 
 #### 🔭 Latest releases I've contributed to
 
