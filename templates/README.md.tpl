@@ -30,26 +30,9 @@
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### ⭐ Recent Stars
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
 - Fediverse: https://fosstodon.org/@codejanitor
 - Blog: https://pitman.io
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-
-<!-- comments will be preserved -->
