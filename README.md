@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 day ago)
 - [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 days ago)
 - [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (1 month ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 months ago)
 - [gettyimages/gettyimages-api_java](https://github.com/gettyimages/gettyimages-api_java) - Getty Images API SDK for Java (3 months ago)
