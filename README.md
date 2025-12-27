@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (1 day ago)
-- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (6 days ago)
-- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (6 days ago)
+- [mapitman/mdview](https://github.com/mapitman/mdview) - Convert markdown to HTML and launch it in a browser. (2 days ago)
+- [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) - Scripts for bootstrapping my Linux environment (1 week ago)
+- [mapitman/dotfiles](https://github.com/mapitman/dotfiles) - My dotfiles. Managed with YADM - https://yadm.io (1 week ago)
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) - Getty Images API SDK - PHP (1 month ago)
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) - Getty Images API SDK for Node.js (2 months ago)
 - [gettyimages/gettyimages-api_java](https://github.com/gettyimages/gettyimages-api_java) - Getty Images API SDK for Java (3 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mapitman/mdview](https://github.com/mapitman/mdview) ([1.7.0](https://github.com/mapitman/mdview/releases/tag/1.7.0), 5 days ago) - Convert markdown to HTML and launch it in a browser.
+- [mapitman/mdview](https://github.com/mapitman/mdview) ([1.7.0](https://github.com/mapitman/mdview/releases/tag/1.7.0), 6 days ago) - Convert markdown to HTML and launch it in a browser.
 - [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) ([6.0.0](https://github.com/gettyimages/gettyimages-api_php/releases/tag/6.0.0), 1 month ago) - Getty Images API SDK - PHP
 - [gettyimages/gettyimages-api_nodejs](https://github.com/gettyimages/gettyimages-api_nodejs) ([6.5.1](https://github.com/gettyimages/gettyimages-api_nodejs/releases/tag/6.5.1), 1 month ago) - Getty Images API SDK for Node.js
 - [gettyimages/gettyimages-api_ruby](https://github.com/gettyimages/gettyimages-api_ruby) ([3.2.6](https://github.com/gettyimages/gettyimages-api_ruby/releases/tag/3.2.6), 4 months ago) - Getty Images API SDK for Ruby
@@ -37,9 +37,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Clean up repository issues](https://github.com/mapitman/linux-bootstrap/pull/6) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (5 days ago)
-- [Add automated testing infrastructure for Ubuntu bootstrap](https://github.com/mapitman/linux-bootstrap/pull/5) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
-- [Update the ubuntu bootstrap process](https://github.com/mapitman/linux-bootstrap/pull/4) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
+- [Clean up repository issues](https://github.com/mapitman/linux-bootstrap/pull/6) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (6 days ago)
+- [Add automated testing infrastructure for Ubuntu bootstrap](https://github.com/mapitman/linux-bootstrap/pull/5) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
+- [Update the ubuntu bootstrap process](https://github.com/mapitman/linux-bootstrap/pull/4) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 week ago)
 - [Add Fedora RPM packaging support and improve CI workflows](https://github.com/mapitman/mdview/pull/43) on [mapitman/mdview](https://github.com/mapitman/mdview) (1 week ago)
 - [Update PHP version](https://github.com/gettyimages/gettyimages-api_php/pull/34) on [gettyimages/gettyimages-api_php](https://github.com/gettyimages/gettyimages-api_php) (1 month ago)
 - [Update readme](https://github.com/mapitman/linux-bootstrap/pull/3) on [mapitman/linux-bootstrap](https://github.com/mapitman/linux-bootstrap) (1 month ago)
